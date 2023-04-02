@@ -1,0 +1,139 @@
+/* header */
+.container {
+    width: 1220px;
+    margin:0 auto;
+}
+.head-div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.head-nav{
+    display: flex;
+    align-items: center;
+    width: 825px;
+    justify-content: space-around;
+}
+.head-ul{
+    display: flex;
+    justify-content: space-around;
+    width: 601px;
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #37393F;
+
+}
+
+.header {
+    position: fixed;
+    top:0;
+    left:0;
+    width: 100%;
+    padding-top: 53px;
+    z-index: 100;
+    background-color: #fff;
+}
+.head-d{
+    position: flex;
+    justify-content: space-between;
+}
+.contact-container {
+    width: 184px;
+    height: 65px;
+    background-color: #6B77E5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-family: 'Cabin', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+/* first section */
+.section-d{
+    margin-top: 254px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    height: 510px;
+}
+.main-header{
+    display: flex;
+    height: 86px;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.main-h4 {
+    font-family: inter;
+    font-weight: 500;
+    font-size: 18px;
+    color: #37393F;
+}
+.main-h2 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+    color: #37393F;
+}
+
+.container-wrap{
+    display: flex;
+    justify-content: space-between;
+}
+.conainer-box{
+    background-color: #F4F4F4;
+    width: 386px;
+    height: 383px;
+    
+
+}
+.text-box{
+    height: 185px;
+    width: 300px;
+    margin-top: 58px;
+    margin-left: 43px;
+
+}
+.container-h3{
+    font-family: poppins;
+    font-size: 25px;
+    font-weight: 600;
+    color: #37393F;
+}
+.container-p1{
+    font-family: inter;
+    font-size: 18px;
+    font-weight: 400;
+    color: #7D7D7D;
+    margin-top: 16px;
+    margin-bottom: 37px;
+
+}
+.container-p2{
+    font-family: inter;
+    font-size: 18px;
+    font-weight: 600;
+    color: #6B77E5;
+}
+.main-icon{
+    background-color: #40DDB6;
+    border-radius: 50px;
+    width:  72px;
+    height: 72px;
+    margin-left: 157px;
+    margin-bottom: 58px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.purple {
+    background: #6B77E5;
+}
+.fa-thin{
+    color: #fff;
+
+}
