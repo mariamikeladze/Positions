@@ -130,13 +130,19 @@
     justify-content: center;
 
 }
-.purple {
-    background: #6B77E5;
-}
-.fa-thin{
+
+.fa{
     color: #fff;
 
 }
+.fa-solid{
+    color: #fff;
+}
+.purple {
+    background: #6B77E5;
+}
+
+
 
 /* section 2 */
 
@@ -186,7 +192,7 @@
 }
 
 .blue-icon{
-    margin-top: 47px;
+    margin: 47px auto 0 auto;
     background:#6B77E5;
     border-radius: 50px;
     width: 64.5px;
@@ -194,6 +200,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+
 
 }
 /* footer */
